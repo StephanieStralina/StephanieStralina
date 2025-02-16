@@ -2,7 +2,7 @@
 
 As a Junior Software Engineer with a background in full stack development, entrepreneurship, and content creation - I thrive when I’m synthesizing complex information and transforming it into intuitive, user-friendly solutions. My unique mix of technical skills, teaching experience, and business mindset makes me a dynamic problem-solver ready to contribute.
 
-I also about Dungeons & Dragons a lot. Like - a LOT. [You can watch me do that here](https://www.youtube.com/@StephaniePlaysGames)
+I also about Dungeons & Dragons a lot. Like - a LOT.
 
 ---
 
