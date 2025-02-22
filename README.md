@@ -1,9 +1,6 @@
 # <img src="d20.png" width="35" height="35" alt="A teal d20 die frequently used to play the game Dungeons and Dragons"> Stephanie Stralina
 
-As a Software Engineer with a background in full stack development, entrepreneurship, and content creation - 
-I thrive when I’m synthesizing complex information and transforming it into intuitive, user-friendly solutions. 
-My unique mix of technical skills, teaching experience, and business mindset makes me a
-highly adaptable, driven, and creative problem-solver who can bridge technical skills with human understanding.
+As a Software Engineer with a background in full stack development, entrepreneurship, and content creation, I’m passionate about breaking down complex problems and turning them into user-friendly solutions. I bring a unique mix of technical skills, teaching experience, and business insight that makes me a creative and adaptable problem-solver - someone who understands both the technical side AND the human side of technology.
 
 I also talk about Dungeons & Dragons a lot. Like - a LOT. You can watch me do that on [YouTube.](https://youtube.com/@stephaniePlaysGames/)
 
